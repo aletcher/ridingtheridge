@@ -1,13 +1,13 @@
 title: Riding the Ridge
 logo: # You can add own logo image.
-description: Alec Letcher's Blog
+description: Alec's Blog
 baseurl: "/blog_reked" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Alec Letcher
-  bio: Hello. I'm Alec. Thanks for visiting my blog :)
+  name: Alec
+  bio: Hi! I'm Alec. Thanks for visiting my blog.
 
 # Contact links
 # twitter: https://twitter.com/ # Add your Twitter handle
@@ -20,9 +20,9 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: Alec Letcher's Blog # Add your hero subtitle
-hero-image: images/ridge4.webp # Add background image in section hero
-# hero-image: images/ridge2.jpg # Add background image in section hero
+hero-subtitle: Alec's Blog # Add your hero subtitle
+hero-image: images/ridge3.webp # Add background image in section hero
+# hero-image: images/ridgejustify2.jpg # Add background image in section hero
 
 
 # Footer

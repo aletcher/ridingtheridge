@@ -2,7 +2,7 @@
 layout: page
 title: Style Guide
 permalink: /styleguide/
-image: images/12.jpg
+image: images/ridge1.jpg
 ---
 
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
@@ -60,9 +60,8 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 #### A quote looks like this:
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
+> The longer I live, the and that all the pains I have so humbly taken to verify my notions! \
+<cite>George Bernard Shaw</cite>
 
 ***
 
@@ -70,7 +69,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ### Syntax Highlighter
 
-{% highlight js %}
+{% highlight py %}
   $('.top').click(function () {
     $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
   });
@@ -93,5 +92,5 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ### Images
 
-![]({{site.baseurl}}/images/13.jpg)
+![]({{site.baseurl}}/images/ridge1.jpg)
 *Streets of New York*

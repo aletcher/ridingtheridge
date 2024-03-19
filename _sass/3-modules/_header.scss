@@ -39,13 +39,14 @@
 
 /* Logo */
 .logo__link {
-  font-family: 'Merriweather', serif;
-  font-size: 31px;
+  font-family: $title-font-family;
+  font-size: 32px;
   line-height: 50px;
   font-weight: 700;
   text-decoration: none;
   &:hover {
-    color: #000;
+    // color: #000;
+    color: $brand-color;
   }
 }
 
