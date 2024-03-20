@@ -1,0 +1,5 @@
+- audio readings
+- remove prev/next buttons?
+- improve search to include article content?
+- Fix zoom on small pictures (eg spongebob)
+- Link color

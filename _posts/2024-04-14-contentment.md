@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Contentment vs Improvement"
+# title:  "Wanting What We Have"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
 date:   2024-03-14
-image:  images/spongebob.gif
+# image:  images/spongebob.gif
 # tags:   [Life]
 ---
 
-<!-- ![]({{site.baseurl}}/images/spongebob.gif){:style="width: 100%; display:block; margin-left:auto; margin-right:auto"} -->
-<!-- *Patrick being content* -->
+![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"}
 
 We spend every waking moment attempting to improve our experience. To get to the end of our to-be-happy list in order to finally be satisfied. Training from a young age, we become masters in setting goals that hold the promise of happiness, working hard to reach them, and once reached, we move the goalpost a little further still. We invest time in education (to get a better job), and then in work (to get a better salary), and then in a house (to live a better retirement), and eventually, in a coffin. We spend time with our loved ones. We produce works of art. We capitalise on an opportunity. We leverage an idea. We optimise our schedules. We profit from an encounter. We get the most out of our holidays. We maximise our sleep. We get our money's worth.
 
@@ -21,6 +21,9 @@ On the other hand, taken naively, the phrase would suggest that there is no poin
 > <cite> Diogenes of Sinope </cite>
 
 Yet it is equally clear that a civilization made only of cave-monks and cave-nuns, however full of wisdom & compassion, would not be a civilization of human flourishing in its broadest sense. [Perhaps I am wrong on this point. What do you think?] There are many other things we are right to care about and to improve: poetry, physics, medicine, raising children, botany, sexual relationships, carpenting. These things are compatible with the mind of a cave-monk, but require dedicated effort. One is unlikely to spontaneously write down Einstein's equations for general relativity, or compose Debussy's Clair de Lune, while meditating in a cave. Human creativity may no doubt be enhanced by a certain satisfaction with the present moment – but also a desire to learn & create that moves us forward into the next moment; sometimes mindfully, sometimes not.
+
+![]({{site.baseurl}}/images/body.png){:style="width: 120%; max-width: 120%; margin-left: -10%"}
+*Growing the spirit into the body*
 
 This presents us with something of a paradox. What is the point of finding a new job, or moving to a new city, or studying biology, or writing this essay, if we spend most of our time lost in thought, never quite scratching the itch of dukkha? How can we really be content while longing for change, in some form or other? Sam Harris writes about this topic with great lucidity. He suggests that our predicament is something to be sustained, balanced on the ridge, rather than conceptually resolved:
 
@@ -44,7 +47,3 @@ This peace of mind, this sense of openness and equanimity, can be trained. I hea
 
 We are guaranteed to reach the day that will be our last.  
 How kind, how loving, how generous would you be – if today was it?
-
-
-![]({{site.baseurl}}/images/body.png)
-*Growing the spirit into the body*
