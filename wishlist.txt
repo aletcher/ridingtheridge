@@ -1,5 +1,11 @@
-- audio readings
+short-term:
 - remove prev/next buttons?
-- improve search to include article content?
+- link color
+- non disqus comments
+- poems / dancing section
+- contact form
+
+long-term:
+- audio readings
 - Fix zoom on small pictures (eg spongebob)
-- Link color
+- improve search to include article content

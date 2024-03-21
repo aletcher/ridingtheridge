@@ -7,7 +7,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Alec
-  bio: Hi! I'm Alec. Thanks for visiting my blog.
+  bio: Hi! Thanks for visiting my blog.
 
 # Contact links
 # twitter: https://twitter.com/ # Add your Twitter handle
@@ -20,10 +20,7 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: A little experiment in holding opposite ideas together.
-# To find commonality, instead of further polarising society. To marvel at both sides of the ridge with an eagle's eye.
-# hero-subtitle: The attempt of a little being to hold opposite ideas together.
-# <br> An attempt to push-back against polarisation.
+hero-subtitle: I'm Alec. Welcome to my blog. :)
 hero-image: images/ridge3.webp # Add background image in section hero
 # hero-image: images/ridgejustify2.jpg # Add background image in section hero
 
