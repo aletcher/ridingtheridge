@@ -5,7 +5,7 @@ title:  "Contentment vs Improvement"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
 date:   2024-03-14
 # image:  images/spongebob.gif
-# tags:   [Life]
+tags: [Essays]
 ---
 
 ![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"}

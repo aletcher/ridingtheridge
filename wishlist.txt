@@ -3,7 +3,8 @@ short-term:
 - link color
 - non disqus comments
 - poems / dancing section
-- contact form
+- contact form OR email?
+- compact notation for image with percentage?
 
 long-term:
 - audio readings

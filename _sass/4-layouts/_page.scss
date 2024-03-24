@@ -9,6 +9,10 @@
   }
 }
 
+.page__content {
+  text-align: $text-alignment;
+}
+
 /* Page Image */
 .page-image {
   display: block;

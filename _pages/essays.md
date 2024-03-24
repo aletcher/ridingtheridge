@@ -2,7 +2,10 @@
 layout: page
 title: Essays
 permalink: /essays/
-image: images/cognition-crisis.jpg
+# image: images/cognition-crisis.jpg
+# tags: [Essays]
 ---
 
-List?
+![]({{site.baseurl}}/images/cognition-crisis.jpg){:style="width: 120%; max-width: 120%; margin-left: -10%"}
+
+Below you will find a list of essays.

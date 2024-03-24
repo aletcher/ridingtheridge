@@ -20,7 +20,7 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: I'm Alec. Welcome to my blog. :)
+hero-subtitle: Welcome to my blog. :)
 hero-image: images/ridge3.webp # Add background image in section hero
 # hero-image: images/ridgejustify2.jpg # Add background image in section hero
 
