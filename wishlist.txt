@@ -4,8 +4,6 @@ short-term:
 - poems / dancing section
 - contact form OR email?
 - compact notation for image with percentage?
-- Acknowledge author of website
-- change favico.ico
 
 long-term:
 - audio readings
