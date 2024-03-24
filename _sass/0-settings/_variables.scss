@@ -19,10 +19,14 @@ $quote-spacing-unit: 40px;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #c9401e;
+// $brand-color: #b43819;
+$brand-color: rgb(179, 30, 0);
 $dark: #212121;
 $gray: #7f7f7f;
 $light-gray: #eee;
+
+// rgb(0, 20, 115) # Dark blue
+// rgb(163, 28, 0) # Dark red
 
 
 // Background Colors
@@ -37,6 +41,8 @@ $heading-font-color: $dark;
 // Links
 $link-color: $dark;
 $link-color-hover: darken($dark, 15%);
+$brand-link-color: rgb(151, 0, 0);
+$brand-link-hover: darken($brand-link-color, 15%);
 
 // Border
 $border-color: $light-gray;

@@ -41,6 +41,8 @@
 }
 
 .article__tag {
+  text-transform: capitalize;
+
   &:after {
     content: ",";
     display: inline-block;

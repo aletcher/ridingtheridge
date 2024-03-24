@@ -16,11 +16,11 @@ This name comes out of a desire to push back against an overly polarised society
 
 I am desperately far from this wise man's mind. But I hope this blog will be a place to keep track of my attempts to ridge ridges, and inevitable failures along the way. But it would make no sense to do this alone. My dream would be for this blog to become a conversation -- and I would love to receive your messages, opinions, feedback, criticism, questions, answers. You can comment directly on each blog post, or reach out to me directly below. In the near future I will setup a newsletter where we can keep this conversation going, on a weekly rhythm.
 
-**[Essays.](../essays)** Random "essays" about anything and everything. Take light-heartedly.
+**[Essays](../essays)**. Random "essays" about anything and everything. Take light-heartedly.
 
-**[Poems.](../poems)** I am no poet (nor essayist), but I love to write just the same, and hope some of them will mean something to you. Some are strongly related to the idea of holding opposites together. Others not. Some will be in my mother-tongue, French, but I will try to post a few in English as well.
+**[Poems](../poems)**. I am no poet (nor essayist), but I love to write just the same, and hope some of them will mean something to you. Some are strongly related to the idea of holding opposites together. Others not. Some will be in my mother-tongue, French, but I will try to post a few in English as well.
 
-**[Dancing.](../dancing)** Sometimes I like to dance. I usually start with a sensation, or a feeling, or a part of the body I am trying to listen to better, and see where it takes me. Sometimes people ask me to share these little dances with them. I don't have Instagram, and I'm all against the 2D flatness of it, but sometimes it's good to let go and just share things you enjoy doing with others.
+**[Dancing](../dancing)**. Sometimes I like to dance. I usually start with a sensation, or a feeling, or a part of the body I am trying to listen to better, and see where it takes me. Sometimes people ask me to share these little dances with them. I don't have Instagram, and I'm all against the 2D flatness of it, but sometimes it's good to let go and just share things you enjoy doing with others.
 
 I truly hope this experiment will be useful to someone, somewhere. The purpose of life is, I think, *to bloom* (ask any flower), and I wish nothing less for you.
 

@@ -11,6 +11,16 @@
 
 .page__content {
   text-align: $text-alignment;
+
+  a {
+    // text-decoration: underline;
+    color: $brand-link-color;
+    
+    &:hover {
+      // color: $brand-link-hover;
+      text-decoration: underline;
+    }
+  }
 }
 
 /* Page Image */

@@ -11,6 +11,16 @@
 
 .post__content {
   text-align: $text-alignment;
+
+  a {
+    // text-decoration: underline;
+    color: $brand-link-color;
+    
+    &:hover {
+      // color: $brand-link-hover;
+      text-decoration: underline;
+    }
+  }
 }
 
 .post-info {
@@ -31,6 +41,8 @@
 }
 
 .post-tags__tag {
+  text-transform: capitalize;
+
   &:after {
     content: ",";
     display: inline-block;

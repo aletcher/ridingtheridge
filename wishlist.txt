@@ -1,10 +1,11 @@
 short-term:
 - remove prev/next buttons?
-- link color
 - non disqus comments
 - poems / dancing section
 - contact form OR email?
 - compact notation for image with percentage?
+- Acknowledge author of website
+- change favico.ico
 
 long-term:
 - audio readings
