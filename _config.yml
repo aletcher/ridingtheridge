@@ -1,8 +1,8 @@
 title: Riding the Ridge
 logo: # You can add own logo image.
 description: Alec's Blog
-baseurl: "/blog_reked" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://www.ridingtheridge.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
