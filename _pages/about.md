@@ -15,7 +15,7 @@ Which is not to say we are to become liquid, lukewarm, evergreen. Quite the cont
 ![](../images/ridge2.jpg){:style="width: 100%; max-width: 115%; margin-left: 0%"}
 *A snow-traveler, riding the ridge.*
 
-I am desperately far from this wise man's mind. But I hope this blog will be a place to keep track of my attempts to ridge ridges, and inevitable failures along the way. But it would make no sense to do this alone. My dream would be for this blog to become a conversation -- and I would love to receive your messages, opinions, feedback, criticism, questions, answers. You can comment directly on each blog post, or reach out to me directly below. In the near future I will setup a newsletter where we can keep this conversation going, on a weekly rhythm.
+I hope this blog will be a place to keep track of my attempts to ridge ridges, and inevitable failures along the way. But it would make no sense to do this alone. My dream would be for this blog to become a conversation -- and I would love to receive your messages, opinions, feedback, criticism, questions, answers. You can comment directly on each blog post, or reach out to me directly below. In the near future I will setup a newsletter where we can keep this conversation going, on a weekly rhythm.
 
 **[Essays](../essays)**. Random "essays" about anything and everything. Take light-heartedly.
 

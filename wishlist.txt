@@ -1,12 +1,9 @@
 short-term:
-- remove prev/next buttons?
 - non disqus comments
-- proper links to poems / dancing sections
-- contact form / custom email?
-- compact notation for image with percentage?
+- contact form / custom email
 
 long-term:
+- compact notation for image with percentage?
 - audio readings
 - Fix zoom on small pictures (eg spongebob)
 - improve search to include article content
-
