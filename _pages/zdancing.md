@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dancing
+title: dancing
 permalink: /tag/dancing/
 # image: images/body.png
 # tags: [Dancing]

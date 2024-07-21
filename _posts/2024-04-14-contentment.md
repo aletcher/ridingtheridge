@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contentment vs Improvement"
+title:  "contentment & improvement"
 # title:  "Wanting What We Have"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
 date:   2024-03-14

@@ -1,13 +1,13 @@
 title: Riding the Ridge
 logo: # You can add own logo image.
-description: Alec's Blog
+description: A blog experiment
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://www.ridingtheridge.com/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
   name: Alec
-  bio: Hi! Thanks for visiting my blog.
+  bio:
 
 # Contact links
 # twitter: https://twitter.com/ # Add your Twitter handle
@@ -20,7 +20,7 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: A blog experiment. # An experiment against polarisation.
+hero-subtitle: An experiment in holding opposite ideas together. # An experiment against polarisation.
 hero-image: images/ridge3.webp # Add background image in section hero
 
 # Footer

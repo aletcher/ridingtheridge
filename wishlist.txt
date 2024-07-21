@@ -1,9 +1,9 @@
 short-term:
-- non disqus comments
-- contact form / custom email
+- if change github + server at some point: rename blog to "toridetheridge"
+- change "home" and tag titles to lower caps? put two screenshots side by side and compare aesthetic // keep code versions!!
 
 long-term:
+- contact form?
 - compact notation for image with percentage?
-- audio readings
 - Fix zoom on small pictures (eg spongebob)
 - improve search to include article content
