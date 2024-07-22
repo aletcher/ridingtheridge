@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "contentment & improvement"
+title:  "Contentment & Improvement"
 # title:  "Wanting What We Have"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
 date:   2024-03-14
-# image:  images/spongebob.gif
+image:  images/carrot4.webp
 tags: [essays]
 ---
 
-![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"}
+<!-- ![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"} -->
 
 We spend every waking moment attempting to improve our experience. To get to the end of our to-be-happy list in order to finally be satisfied. Training from a young age, we become masters in setting goals that hold the promise of happiness, working hard to reach them, and once reached, we move the goalpost a little further still. We invest time in education (to get a better job), and then in work (to get a better salary), and then in a house (to live a better retirement), and eventually, in a coffin. We spend time with our loved ones. We produce works of art. We capitalise on an opportunity. We leverage an idea. We optimise our schedules. We profit from an encounter. We get the most out of our holidays. We maximise our sleep. We get our money's worth.
 
@@ -37,7 +37,9 @@ Another way to thread this needle is to replace the phrase « accepting the pres
 Not so. We are fragile creatures (with minds of great potential). We must therefore practice, and practicing also entails a desire to move forward, to improve our lives, to benefit others today and tomorrow. We must tend to our gardens, to plough our fields. To understand the movement of the stars, the falling of the apple. To express beauty and joy in words & colour & rhythm. It is one thing to accept the present moment with resignation. It is an entirely different thing to be at peace with it – and yet move with great courage to improve our lives, and those of all sentient beings, in the next moment, and the next, and the next.
 This peace of mind, this sense of openness and equanimity, can be trained. I heartfully encourage you to try. There are a hundred ways to get started – feel free to reach out for any recommendations. I am only beginning – but I will ask my teachers for you. :-)
 
-**Thank-yous.** This post is deeply indebted to Sam Harris. Truly grateful to his every-day invitation to meditate, and his capacity to thread many needles in one breath. I highly recommend his Waking Up app as a starting point – though one eventually needs to come into contact with a physical teacher, and a physical community. I thank Casa Virupa for being this community in my life, and my teachers Laia, Glòria, and Lama Norbu, for their incessantly wise and compassionate teachings. I thank them also for pointing me to Geshe Tashi Tsering's book, The Four Noble Truths.
+---
+
+**Thank-you.** This post is deeply indebted to Sam Harris. Truly grateful to his every-day invitation to meditate, and his capacity to thread many needles in one breath. I highly recommend his Waking Up app as a starting point – though one eventually needs to come into contact with a physical teacher, and a physical community. I thank Casa Virupa for being this community in my life, and my teachers Laia, Glòria, and Lama Norbu, for their incessantly wise and compassionate teachings. I thank them also for pointing me to Geshe Tashi Tsering's book, The Four Noble Truths.
 
 **Post-scriptum.** It is easy enough to mock spiritual materialism, and the carpe diem coffee cups (delivered tomorrow by Amazon if you subscribe to Prime!! Hand-carved by a ceramic artist on Etsy!!). But the idiom really is beautiful, especially in the presence of its significant other half:
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "yoga & “yoga”"
-description: "There's something <i>off</i> about the Western appeal to yoga."
+title:  "What are you doing yoga for?"
+description: "There's something strange about the Western appeal to yoga."
 date:   2024-03-20
-# image:  images/spongebob.gif
+image:  images/yoga.webp
 tags: [essays]
 ---
 
-![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"}
+<!-- ![Meditating Patrick.]({{site.baseurl}}/images/spongebob.gif){:style="width: 120%; max-width: 120%; margin-left: -10%"} -->
 
-I think we can all feel there's something ***off*** about the Western appeal to yoga. That half of the cargo was somehow lost on the boat-trip from India, inadvertently leaving us with all of the gymnastics and none of the spirit. But many of us keep practicing yoga as if it were just another fitness routine, another stress-relief technique, another form of relaxation after a long day at work – another way to improve. (Hello, mindfulness!) The average yoga class is packed with athletes of productivity, mid-life crises, digital nomads, single men, gurus of optimisation, and retired women... In need for a break from neurosis. Or from the contradictions of consumer society. In search for a peace of mind, for happiness, for meaning.
+I think we can all feel there's something slightly *off* about the Western appeal to yoga. That half of the cargo was somehow lost on the boat-trip from India, inadvertently leaving us with all of the gymnastics and none of the spirit. But many of us keep practicing yoga as if it were just another fitness routine, another stress-relief technique, another form of relaxation after a long day at work – another way to improve. (Hello, mindfulness!) The average yoga class is packed with athletes of productivity, mid-life crises, digital nomads, single men, gurus of optimisation, and retired women... In need for a break from neurosis. Or from the contradictions of consumer society. In search for a peace of mind, for happiness, for meaning.
 
 I feel you. I'm searching, too – because we have grown up thinking these things are to be found outside of our minds. In the next job, relationship, hobby, purchase. That we are on the cusp of finally and fully relaxing – we just need to get this done, to get this sorted, and then we'll be fine! Yet the root teachings of yoga are crystal-clear. Here are the opening lines of the Yoga Sutras of Patanjali:
 
@@ -28,7 +28,9 @@ But if you wish to find fulfilment, well-being, contentment, serenity, eudaimoni
 
 Ask yourself the question, and place a first stone on the path you would like to walk – if not the one you are walking.
 
-**Thank-yous.** Thank you Mum, for sharing with me a little book named Living the Sutras. It comes with the usual self-centred proclivity, but skillfully lays the foundations of a bridge between our Western minds and the ancient Eastern practice.
+---
+
+**Thank-you.** To Mum, for sharing with me a little book named Living the Sutras. It comes with the usual self-centred proclivity, but skillfully lays the foundations of a bridge between our Western minds and the ancient Eastern practice.
 
 **Post-scriptum for the curious.** Yoga is the cessation of the fluctuations of the mind. But why is that the goal? Isn't conceptual thought a powerful tool, that we ought to train and cherish? Of course, it is – when wielded as a tool. The point is not to eliminate thoughts and feelings, but to alter our relationship to them. To be capable of beholding them as the sky beholds the cloud, the bird and the rain. To rest in a more primary space of awareness, of plain consciousness, and to witness experience with a gentle inner smile – rather than being bowled over in every moment by the hamster wheel of grasping and aversion, of pain and pleasure. Thus lands the third sutra:
 

@@ -20,7 +20,7 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: An experiment in holding opposite ideas together. # An experiment against polarisation.
+hero-subtitle: A blog to share little pieces of writing and dancing. # A blog experiment to share thoughts (essays), feelings (poems), and body (dance videos). # An experiment in holding opposite ideas together. # An experiment against polarisation.
 hero-image: images/ridge3.webp # Add background image in section hero
 
 # Footer
@@ -28,7 +28,7 @@ footer: false
 footer-image: images/spongebob.gif # Add background image in footer
 
 # Comment Section (Disqus)
-disqus-identifier: ridingtheridge # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # ridingtheridge # Add your shortname for Disqus Comment. For example mr-brown
 
 # Google Analytics
 google-analytics: "" # Add your identifier. For example UA-99631805-1.

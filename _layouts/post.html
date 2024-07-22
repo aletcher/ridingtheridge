@@ -11,7 +11,7 @@ layout: default
 				{% else %}
 					<h1 class="post__title">{{ page.title }}</h1>
 				{% endif %}
-				<div class="post-info">
+				<!-- <div class="post-info">
 					{% if page.tags.size >= 1 %}
 					<span class="post-tags">
 						posted in
@@ -24,11 +24,10 @@ layout: default
 						<span class="post__date"> on <a href="{{post.url | prepend: site.baseurl}}">
 							<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time></a>
 						</span>
-						<!-- <span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span> -->
+						<span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
 					</span>
-				</div>
+				</div> -->
 			</div>
-
 		</div>
 	</div>
 </div>

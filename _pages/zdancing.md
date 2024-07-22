@@ -1,7 +1,7 @@
 ---
 layout: page
-title: dancing
-permalink: /tag/dancing/
+title: Sensations
+permalink: /tag/body/
 # image: images/body.png
 # tags: [Dancing]
 ---
@@ -11,3 +11,4 @@ permalink: /tag/dancing/
 
 <!-- Below you will find a list of blog posts related to dancing. -->
 
+<!-- Sometimes I like to dance. I usually start with a sensation, or a feeling, or a part of the body I am trying to listen to better, and see where it takes me. Sometimes people ask me to share these little dances with them. I don't have Instagram, and I'm all against the 2D flatness of it, but sometimes it's good to let go and just share things you enjoy doing with others. -->

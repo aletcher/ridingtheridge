@@ -1,6 +1,6 @@
 ---
 layout: page
-title: essays
+title: Thoughts
 permalink: /tag/essays/
 # image: images/cognition-crisis.jpg
 # tags: [Essays]

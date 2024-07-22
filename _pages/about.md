@@ -1,16 +1,15 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 # image: images/spongebob.gif
 ---
 
 ![](../images/ridge4.webp){:style="width: 100%; max-width: 100%; margin-left: 0%"}
 
-
 Welcome to my blog! This is a little experiment in sharing a few things I've been writing lately.
 
-The name, ***to ride the ridge***, is meant to invoke the image of holding opposite ideas together. To balance along the tightrope they create and marvel at both sides in a weightless state, with eagles' eyes. It was inspired by a [mathematical idea](https://arxiv.org/pdf/2011.06505) developed with colleagues, and comes out of a desire to push back against an overly polarised society. To find commonality, and a shared sense of purpose, even as -- *especially when* -- we disagree.
+The name, ***to ride the ridge***, is meant to invoke the image of holding opposite ideas together. To balance along the tightrope they create and marvel at both sides in a weightless state, with eagles' eyes. It was inspired by a [mathematical idea](https://arxiv.org/pdf/2011.06505), and comes out of a desire to push back against an overly polarised society. To find commonality, and a shared sense of purpose, even as -- *especially when* -- we disagree.
 <!-- To tread lightly along the Middle Way. -->
 <!-- To tread along the [Middle Way](https://en.wikipedia.org/wiki/Middle_Way); to be in harmony with the natural balance between opposites. -->
 
