@@ -20,7 +20,11 @@ author:
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: Riding the Ridge # Add your hero title
-hero-subtitle: A blog to share little pieces of writing and dancing. # A blog experiment to share thoughts (essays), feelings (poems), and body (dance videos). # An experiment in holding opposite ideas together. # An experiment against polarisation.
+hero-subtitle: A blog to share little thoughts (essays), feelings (poems), and sensations (dance).
+# A blog experiment.
+# An experiment in holding opposite ideas together.
+# An experiment against polarisation.
+# A blog to share little pieces of writing and dancing. 
 hero-image: images/ridge3.webp # Add background image in section hero
 
 # Footer

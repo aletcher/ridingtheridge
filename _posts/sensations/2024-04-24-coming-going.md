@@ -3,7 +3,6 @@ layout: post
 title: "coming & going"
 description: ""
 date:   2024-03-24
-# image:  images/spongebob.gif
 tags: [dance]
 ---
 

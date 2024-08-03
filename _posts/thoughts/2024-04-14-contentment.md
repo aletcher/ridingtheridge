@@ -3,7 +3,7 @@ layout: post
 title:  "wanting what we have"
 # title:  "Wanting What We Have"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
-date:   2024-03-14
+date:  2024-03-14
 image:  images/carrot4.webp
 tags: [essays]
 ---
