@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Sensations
-permalink: /tag/body/
+permalink: /tag/dance/
 # image: images/body.png
-# tags: [Dancing]
+# tags: [dance]
 ---
 
 <!-- ![]({{site.baseurl}}/images/body.png){:style="width: 120%; max-width: 120%; margin-left: -10%"} -->

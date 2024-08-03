@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are you doing yoga for?"
+title:  "what are you doing yoga for?"
 description: "There's something strange about the Western appeal to yoga."
 date:   2024-03-20
 image:  images/yoga.webp
@@ -30,7 +30,7 @@ Ask yourself the question, and place a first stone on the path you would like to
 
 ---
 
-**Thank-you.** To Mum, for sharing with me a little book named Living the Sutras. It comes with the usual self-centred proclivity, but skillfully lays the foundations of a bridge between our Western minds and the ancient Eastern practice.
+**Thank-yous.** To Mum, for sharing with me a little book named Living the Sutras. It comes with the usual self-centred proclivity, but skillfully lays the foundations of a bridge between our Western minds and the ancient Eastern practice.
 
 **Post-scriptum for the curious.** Yoga is the cessation of the fluctuations of the mind. But why is that the goal? Isn't conceptual thought a powerful tool, that we ought to train and cherish? Of course, it is – when wielded as a tool. The point is not to eliminate thoughts and feelings, but to alter our relationship to them. To be capable of beholding them as the sky beholds the cloud, the bird and the rain. To rest in a more primary space of awareness, of plain consciousness, and to witness experience with a gentle inner smile – rather than being bowled over in every moment by the hamster wheel of grasping and aversion, of pain and pleasure. Thus lands the third sutra:
 

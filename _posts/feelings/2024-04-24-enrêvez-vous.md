@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enrêvez-vous"
+title: "enrêvez-vous"
 description: ""
 date: 2024-03-20
 # image: images/spongebob.gif
@@ -37,4 +37,4 @@ Sans le songe ivre de l'enfant ?
 
 ---
 
-**Merci.** Le poème s'appellait, à l'origine, « Rêve! ». Merci à mon amie Andrea, qui m'a récemment offert le *Spleen de Paris* de Baudelaire, où j'ai découvert et dérobé le superbe titre, *Enivrez-vous*.
+**Mercis.** Le poème s'appellait, à l'origine, « Rêve! ». Merci à mon amie Andrea, qui m'a récemment offert le *Spleen de Paris* de Baudelaire, où j'ai découvert et dérobé le superbe titre, *Enivrez-vous*.

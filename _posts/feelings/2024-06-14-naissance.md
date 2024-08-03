@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La naissance –"
+title: "la naissance –"
 description: ""
 date: 2024-06-14
 # image: images/naissance.jpg
@@ -107,4 +107,4 @@ Pas deux fois. À notre tour donnant bras,  <br/>
 
 ---
 
-**Merci.** À Marion Fischer, pour la photo argentique, pour l'inspiration, pour la correspondance. Ce poème ne serait jamais né sans tes encouragements !
+**Mercis.** À Marion Fischer, pour la photo argentique, pour l'inspiration, pour la correspondance. Ce poème ne serait jamais né sans tes encouragements !

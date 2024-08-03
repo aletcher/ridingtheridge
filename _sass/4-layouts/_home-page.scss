@@ -30,12 +30,14 @@
   color: $gray;
   
   a {
+    color: darken($brand-color, 5%);
+    // color: lighten($dark, 10%);
     display: inline-block;
-    color: lighten($dark, 10%);
-    border-bottom: 1px dotted #ccc;
+    // border-bottom: 1px dotted lighten($dark, 10%);
 
     &:hover {
-      color: #000;
+      color: darken($brand-color, 15%);
+      // color: lighten($dark, 20%);
     }
   }
 }

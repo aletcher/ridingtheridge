@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Contentment & Improvement"
+title:  "wanting what we have"
 # title:  "Wanting What We Have"
 description: "We spend every waking moment attempting to improve our experience. What if we could just relax?"
 date:   2024-03-14
@@ -39,7 +39,7 @@ This peace of mind, this sense of openness and equanimity, can be trained. I hea
 
 ---
 
-**Thank-you.** This post is deeply indebted to Sam Harris. Truly grateful to his every-day invitation to meditate, and his capacity to thread many needles in one breath. I highly recommend his Waking Up app as a starting point – though one eventually needs to come into contact with a physical teacher, and a physical community. I thank Casa Virupa for being this community in my life, and my teachers Laia, Glòria, and Lama Norbu, for their incessantly wise and compassionate teachings. I thank them also for pointing me to Geshe Tashi Tsering's book, The Four Noble Truths.
+**Thank-yous.** This post is deeply indebted to Sam Harris. Truly grateful to his every-day invitation to meditate, and his capacity to thread many needles in one breath. I highly recommend his Waking Up app as a starting point – though one eventually needs to come into contact with a physical teacher, and a physical community. I thank Casa Virupa for being this community in my life, and my teachers Laia, Glòria, and Lama Norbu, for their incessantly wise and compassionate teachings. I thank them also for pointing me to Geshe Tashi Tsering's book, The Four Noble Truths.
 
 **Post-scriptum.** It is easy enough to mock spiritual materialism, and the carpe diem coffee cups (delivered tomorrow by Amazon if you subscribe to Prime!! Hand-carved by a ceramic artist on Etsy!!). But the idiom really is beautiful, especially in the presence of its significant other half:
 
